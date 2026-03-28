@@ -1,0 +1,5 @@
+{
+  "name": "SB Smart ISP Management Dashboard",
+  "description": "A comprehensive ISP and building management system featuring dashboard analytics, client billing, PPPoE/Hotspot management, and customizable theme settings as shown in the provided images.",
+  "requestFramePermissions": []
+}
